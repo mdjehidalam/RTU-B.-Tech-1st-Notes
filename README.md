@@ -15,4 +15,4 @@ UNIT-6 Electromagnetism
 [Electromagnetism Unit-6th.pdf](https://github.com/user-attachments/files/18141786/Electromagnetism.Unit-6th.pdf)
 
 
-# CRIDITS: ARYA COLLEGE OF ENGINEERING KUKAS JAIPUR
+# CREDITS: ARYA COLLEGE OF ENGINEERING KUKAS JAIPUR
